@@ -11,7 +11,7 @@
 [![Release](https://img.shields.io/github/v/release/SECTL/SecRandom?style=flat&color=%233fb950&label=正式版)](https://github.com/SECTL/SecRandom/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/SECTL/SecRandom?include_prereleases&style=social-square&label=测试版)](https://github.com/SECTL/SecRandom/releases/)
 [![Github Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom)](https://github.com/SECTL/SecRandom/commits/master)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1038111867-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zAqdhSbP4k)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 ### 📦 [SecRandom 仓库](https://github.com/SECTL/SecRandom)
@@ -19,10 +19,10 @@
 ### 🤗 **下载链接**
 
 #### 💾 **SecRandom**
-| 平台/打包方式 | 支持架构     | 完整版                                                         |
-|---------|----------|-------------------------------------------------------------|
+| 平台/打包方式 | 支持架构     | 完整版                                                     |
+|---------|----------|---------------------------------------------------------|
 | Windows | x86, x64 | [Github 下载 💻](https://github.com/SECTL/SecRandom/releases) |
-| Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-U4Fxh)        |
+| Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-U4Fxh)    |
 
 ## SectionIstool
 
