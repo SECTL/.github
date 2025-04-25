@@ -14,6 +14,16 @@
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
+## 📦 [SecRandom 仓库](https://github.com/SECTL/SecRandom)
+
+## 🤗 **下载链接**
+
+### 💾 **SecRandom**
+| 平台/打包方式 | 支持架构     | 完整版                                                         |
+|---------|----------|-------------------------------------------------------------|
+| Windows | x86, x64 | [Github 下载 💻](https://github.com/SECTL/SecRandom/releases) |
+| Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-U4Fxh)        |
+
 # SectionIstool
 
 <image src="https://github.com/SECTL/SectionIstool/raw/main/resources/SectionIstool_icon.png" height="128"/>
@@ -26,18 +36,9 @@
 [![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
-## 📦 [SecRandom 仓库](https://github.com/SECTL/SecRandom)
 ## 📦 [SectionIstool 仓库](https://github.com/SECTL/SectionIstool)
 
-该软件会使您在学校班级电脑中方便、快捷的下载适合班级下载各类软件
-
 ## 🤗 **下载链接**
-
-### 💾 **SecRandom**
-| 平台/打包方式 | 支持架构     | 完整版                                                         |
-|---------|----------|-------------------------------------------------------------|
-| Windows | x86, x64 | [Github 下载 💻](https://github.com/SECTL/SecRandom/releases) |
-| Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-U4Fxh)        |
 
 ### 💾 **SectionIstool**
 | 平台/打包方式 | 支持架构     | 完整版                                                             |
@@ -54,28 +55,16 @@
 
 ## 星标历史 ✨
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=SECTL/SecRandom&type=Date&theme=dark
-      https://api.star-history.com/svg?repos=SECTL/SectionIstool&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=SECTL/SecRandom&type=Date&theme=dark
-      https://api.star-history.com/svg?repos=SECTL/SectionIstool&type=Date&theme=dark
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="
-      https://api.star-history.com/svg?repos=SECTL/SecRandom&type=Date&theme=dark
-      https://api.star-history.com/svg?repos=SECTL/SectionIstool&type=Date&theme=dark
-"
-  />
-</picture>
+[![Star History Chart](https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date)](https://www.star-history.com/#SECTL/SecRandom&SECTL/SectionIstool&Date)
+
+## Star History
+
+<a href="https://www.star-history.com/#SECTL/SecRandom&SECTL/SectionIstool&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date&theme=dark" />
+   <img alt="星标历史 ✨" src="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date" />
+ </picture>
+</a>
 
 Copyright © 2025 lzy98276.
