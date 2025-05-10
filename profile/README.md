@@ -15,7 +15,7 @@
 [![Release](https://img.shields.io/github/v/release/SECTL/SectionIstool?style=flat&color=%233fb950&label=正式版)](https://github.com/SECTL/SectionIstool/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/SECTL/SectionIstool?include_prereleases&style=social-square&label=测试版)](https://github.com/SECTL/SectionIstool/releases/)
 [![Github Last Commit](https://img.shields.io/github/last-commit/SECTL/SectionIstool?label=上次提交)](https://github.com/SECTL/SectionIstool/commits/master)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/ASRSNUJuve)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iWcfaPHn7W)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 ### SecRandom
@@ -25,7 +25,7 @@
 [![Release](https://img.shields.io/github/v/release/SECTL/SecRandom?style=flat&color=%233fb950&label=正式版)](https://github.com/SECTL/SecRandom/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/SECTL/SecRandom?include_prereleases&style=social-square&label=测试版)](https://github.com/SECTL/SecRandom/releases/)
 [![Github Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom?label=上次提交)](https://github.com/SECTL/SecRandom/commits/master)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1038111867-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zAqdhSbP4k)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iWcfaPHn7W)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 ### SecDeskTool
@@ -35,7 +35,7 @@
 [![Release](https://img.shields.io/github/v/release/SECTL/SecDeskTool?style=flat&color=%233fb950&label=正式版)](https://github.com/SECTL/SecDeskTool/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/SECTL/SecDeskTool?include_prereleases&style=social-square&label=测试版)](https://github.com/SECTL/SecDeskTool/releases/)
 [![Github Last Commit](https://img.shields.io/github/last-commit/SECTL/SecDeskTool?label=上次提交)](https://github.com/SECTL/SecDeskTool/commits/master)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C1038111867-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zAqdhSbP4k)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C833875216-blue?style=flat&logo=TencentQQ)](https://qm.qq.com/q/iWcfaPHn7W)
 [![bilibili](https://img.shields.io/badge/-UP%E4%B8%BB%EF%BD%9C黎泽懿-%23FB7299?style=flat&logo=bilibili)](https://space.bilibili.com/520571577)
 
 ### 🤗 **下载链接**
