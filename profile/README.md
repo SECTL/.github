@@ -48,7 +48,7 @@
 | SectionIstool | Windows | x86, x64 | [Github 下载 💻](https://github.com/SECTL/SectionIstool/releases) |
 | SectionIstool | Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-zggxh)            |
 | SecDeskTool | Windows | x86, x64 | [Github 下载 💻](https://github.com/SECTL/SecDeskTool/releases) |
-| SecDeskTool | macOS | x86_64, arm64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-VqFxh) |
+| SecDeskTool | Windows | x86, x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-VqFxh) |
 
 ### 联系
 * [E-mail](mailto:XiaoYouChR@qq.com) - lzy.12@foxmail.com
