@@ -58,8 +58,7 @@
 
 <a href="https://www.star-history.com/#SECTL/SecRandom&SECTL/SectionIstool&Date&theme=dark">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool,SECTL/SecDeskTool&type=Date&theme=dark" />
    <img alt="星标历史 ✨" src="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SectionIstool&type=Date&theme=dark" />
  </picture>
 </a>
