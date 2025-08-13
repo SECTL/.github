@@ -1,0 +1,71 @@
+name: 更新贡献值排行榜
+
+on:
+  schedule:
+    # 每15天北京时间早上8点运行 (UTC+8 = UTC+0)
+    - cron: '0 0 */15 * *'
+  workflow_dispatch:
+    # 允许手动触发
+  push:
+    branches: [ main, master ]
+    paths:
+      - '.github/workflows/contribution.yml'
+      - '.github/profile/contribution_calculator.py'
+      - '.github/profile/requirements.txt'
+
+jobs:
+  update-contribution:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: 设置Python环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 安装依赖
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r .github/profile/requirements.txt
+    
+    - name: 运行贡献值计算脚本
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cd .github/profile
+        echo "🔄 开始运行贡献值计算脚本..."
+        python contribution_calculator.py
+        echo "✅ 贡献值计算脚本执行完成"
+    
+    - name: 提交更改
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .github/profile/README.md
+        git diff --staged --quiet || git commit -m "自动更新贡献值排行榜 $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
+    
+    - name: 创建Pull Request (如果需要)
+      if: failure()
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "自动更新贡献值排行榜"
+        title: "自动更新贡献值排行榜"
+        body: |
+          这是一个自动创建的Pull Request，用于更新贡献值排行榜。
+          
+          更新时间：$(date '+%Y-%m-%d %H:%M:%S')
+          
+          贡献值计算公式：贡献值 = （合并PR×5分） + （Commits×3分） + （文档×4分） + （有效Issues×2分） + （Code Review×2分）
+        branch: update-contribution-leaderboard
+        delete-branch: true
