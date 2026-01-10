@@ -23,7 +23,7 @@
 
 ## 🚀 核心项目
 
-### 🎯 SecRandom - 主要为教育场景点名软件
+### 🎯 SecRandom - 一款易用的点名/抽奖软件
 
 <div align="center">
 
