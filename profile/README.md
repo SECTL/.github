@@ -84,13 +84,9 @@ SecScore 是一款面向教育场景的个人积分管理工具，帮助教师�
 
 ---
 
-### 📚 SecRandom 文档 - 项目文档
-
-<div align="center">
+### 📚 项目文档
 
 📦 [SecRandom 文档](https://github.com/SECTL/SecRandom-docs)
-
-</div>
 
 ---
 
