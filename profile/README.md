@@ -46,6 +46,7 @@ SecScore: [Fox-block-offcial](https://github.com/Fox-block-offcial)
 
 #### 💡 **项目简介**
 SecRandom 是一款易用的点名/抽奖软件，专为教育场景设计，让课堂点名更高效透明！
+
 👨‍💻 **主要开发者**: [lzy98276](https://github.com/lzy98276)
 
 
@@ -77,7 +78,8 @@ SecRandom 是一款易用的点名/抽奖软件，专为教育场景设计，让
 </div>
 
 #### 💡 **项目简介**
-SecScore 是一款面向教育场景的个人积分管理工具，帮助教师或学生记录、统计和分析课堂互动、作业完成情况以及行为表现等积分数据，让教学管理更高效、更有趣。  
+SecScore 是一款面向教育场景的个人积分管理工具，帮助教师或学生记录、统计和分析课堂互动、作业完成情况以及行为表现等积分数据，让教学管理更高效、更有趣。
+  
 👨‍💻 **主要开发者**: [Fox-block-offcial](https://github.com/Fox-block-offcial)
 
 ---
