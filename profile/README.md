@@ -16,8 +16,10 @@
 ## 📋 组织简介
 
 ### 👨‍💻 **主要开发者**:  
-- SecRandom: [lzy98276](https://github.com/lzy98276)  
-- SecScore: [Fox-block-offcial](https://github.com/Fox-block-offcial)
+
+SecRandom: [lzy98276](https://github.com/lzy98276)  
+
+SecScore: [Fox-block-offcial](https://github.com/Fox-block-offcial)
 
 ---
 
