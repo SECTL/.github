@@ -66,7 +66,7 @@ SecRandom 是一款易用的点名/抽奖软件，专为教育场景设计，让
 [![GitHub Issues](https://img.shields.io/github/issues/SECTL/SecScore?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/SECTL/SecScore/issues)
 [![Release](https://img.shields.io/github/v/release/SECTL/SecScore?style=for-the-badge&label=正式版&color=success)](https://github.com/SECTL/SecScore/releases/latest)
 [![Beta](https://img.shields.io/github/v/release/SECTL/SecScore?include_prereleases&style=for-the-badge&label=测试版&color=orange)](https://github.com/SECTL/SecScore/releases/)
-[![Last Commit](https://img.shields.io/github/last-commit/SECTL/SecScore?style=for-the-badge&label=上次提交&color=informational)](https://github.com/SECTL/SecScore/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/SECTL/SecScore?style=for-the-badge&label=上次提交&color=informational)](https://github.com/SECTL/SecScore/commits/main)
 
 </div>
 
