@@ -104,7 +104,7 @@ SecScore 是一款面向教育场景的个人积分管理工具，帮助教师�
 
 ## ⭐ 星标历史
 
-<a href="https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&Date&theme=dark">
+<a href="https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore&type=Date&theme=dark" />
    <img alt="星标历史 ✨" src="https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore&type=Date&theme=dark" />
