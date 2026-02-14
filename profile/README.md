@@ -45,11 +45,11 @@
 
 ---
 
-### Homeworklsland - 简洁易用的作业板
+### AssignSticker - 简洁易用的作业板
 
 * [主要开发者-Chenghaolee-2012](https://github.com/chenghaolee-2012)
-* [仓库地址](https://github.com/SECTL/Homeworklsland)
-* [Homeworklsland 文档](https://homeworklsland.sectl.top)
+* [仓库地址](https://github.com/SECTL/AssignSticker)
+* [AssignSticker 文档](https://AssignSticker.sectl.top)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## ⭐ 星标历史
 
-[![星标历史](https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore,SECTL/Kazuha,SECTL/ShowWrite,SECTL/Homeworklsland&type=date&legend=top-left)](https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&SECTL/Kazuha&SECTL/ShowWrite&SECTL/Homeworklsland&type=date&legend=top-left)
+[![星标历史](https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore,SECTL/Kazuha,SECTL/ShowWrite,SECTL/AssignSticker&type=date&legend=top-left)](https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&SECTL/Kazuha&SECTL/ShowWrite&SECTL/AssignSticker&type=date&legend=top-left)
 
 ---
 
