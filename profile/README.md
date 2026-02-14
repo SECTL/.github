@@ -1,5 +1,3 @@
-<div align="center">SECTL</div>
-
 <div align="center">
 
 ![SECTL Logo](https://img.shields.io/badge/SECTL-Organization-blue?style=for-the-badge&logo=github&logoColor=white)
