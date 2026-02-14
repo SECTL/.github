@@ -17,41 +17,41 @@
 
 ### SecRandom - 一款易用的点名/抽奖软件
 
-[主要开发者-lzy98276](https://github.com/lzy98276)
-[仓库地址](https://github.com/SECTL/SecRandom)
-[SecRandom 文档](https://secrandom.sectl.top)
+* [主要开发者-lzy98276](https://github.com/lzy98276)
+* [仓库地址](https://github.com/SECTL/SecRandom)
+* [SecRandom 文档](https://secrandom.sectl.top)
 
 ---
 
 ### SecScore - 教育场景个人积分管理软件
 
-[主要开发者-Fox-block-offcial](https://github.com/Fox-block-offcial)
-[仓库地址](https://github.com/SECTL/SecScore)
-[SecScore 文档](https://secscore.sectl.top)
+* [主要开发者-Fox-block-offcial](https://github.com/Fox-block-offcial)
+* [仓库地址](https://github.com/SECTL/SecScore)
+* [SecScore 文档](https://secscore.sectl.top)
 
 ---
 
 ### Kazuha - 为触摸屏优化的通用演示助手工具
 
-[主要开发者-Haraguse](https://github.com/Haraguse)
-[仓库地址](https://github.com/SECTL/Kazuha)
-[Kazuha 文档](https://kazuha.sectl.top)
+* [主要开发者-Haraguse](https://github.com/Haraguse)
+* [仓库地址](https://github.com/SECTL/Kazuha)
+* [Kazuha 文档](https://kazuha.sectl.top)
 
 ---
 
 ### ShowWrite - 简洁优雅的视频展台工具
 
-[主要开发者-wwcrdrvf6u](https://github.com/wwcrdrvf6u)
-[仓库地址](https://github.com/SECTL/ShowWrite)
-[ShowWrite 文档](https://showwrite.sectl.top)
+* [主要开发者-wwcrdrvf6u](https://github.com/wwcrdrvf6u)
+* [仓库地址](https://github.com/SECTL/ShowWrite)
+* [ShowWrite 文档](https://showwrite.sectl.top)
 
 ---
 
 ### Homeworklsland - 简洁易用的作业板
 
-[主要开发者-Chenghaolee-2012](https://github.com/chenghaolee-2012)
-[仓库地址](https://github.com/SECTL/Homeworklsland)
-[Homeworklsland 文档](https://homeworklsland.sectl.top)
+* [主要开发者-Chenghaolee-2012](https://github.com/chenghaolee-2012)
+* [仓库地址](https://github.com/SECTL/Homeworklsland)
+* [Homeworklsland 文档](https://homeworklsland.sectl.top)
 
 ---
 
