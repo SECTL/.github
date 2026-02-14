@@ -25,68 +25,38 @@ SecScore: [Fox-block-offcial](https://github.com/Fox-block-offcial)
 
 ## 🚀 核心项目
 
-### 🎯 SecRandom - 一款易用的点名/抽奖软件
+### SecRandom - 一款易用的点名/抽奖软件
 
-<div align="center">
-
-[![Downloads](https://img.shields.io/github/downloads/SECTL/SecRandom/total?style=for-the-badge&label=Downloads&logo=github&logoColor=white&color=blue)](https://github.com/SECTL/SecRandom/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues/SECTL/SecRandom?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/SECTL/SecRandom/issues)
-[![Release](https://img.shields.io/github/v/release/SECTL/SecRandom?style=for-the-badge&label=正式版&color=success)](https://github.com/SECTL/SecRandom/releases/latest)
-[![Beta](https://img.shields.io/github/v/release/SECTL/SecRandom?include_prereleases&style=for-the-badge&label=测试版&color=orange)](https://github.com/SECTL/SecRandom/releases/)
-[![Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom?style=for-the-badge&label=上次提交&color=informational)](https://github.com/SECTL/SecRandom/commits/master)
-
-</div>
-
-<div align="center">
-
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-833875216-blue?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://qm.qq.com/q/iWcfaPHn7W)
-[![bilibili](https://img.shields.io/badge/B%E7%AB%99-%E9%BB%8E%E6%B3%BD%E6%87%BF-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/520571577)
-
-</div>
-
-#### 💡 **项目简介**
-SecRandom 是一款易用的点名/抽奖软件，专为教育场景设计，让课堂点名更高效透明！
-
-👨‍💻 **主要开发者**: [lzy98276](https://github.com/lzy98276)
-
-
-#### 💾 **下载链接**
-| 项目 | 平台/打包方式 | 支持架构 | 完整版 |
-|------|---------------|----------|--------|
-| SecRandom | Windows、Linux | x64 | [Github 下载 💻](https://github.com/SECTL/SecRandom/releases) |
-| SecRandom | Windows、Linux | x64 | [123云盘 下载 💻](https://www.123684.com/s/9529jv-U4Fxh) |
+[仓库地址](https://github.com/SECTL/SecRandom)
+[SecRandom 文档](https://secrandom.sectl.top)
 
 ---
 
-### 📊 SecScore - 教育场景个人积分管理软件
+### SecScore - 教育场景个人积分管理软件
 
-<div align="center">
-
-[![Downloads](https://img.shields.io/github/downloads/SECTL/SecScore/total?style=for-the-badge&label=Downloads&logo=github&logoColor=white&color=blue)](https://github.com/SECTL/SecScore/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues/SECTL/SecScore?style=for-the-badge&logo=github&logoColor=white&color=green)](https://github.com/SECTL/SecScore/issues)
-[![Release](https://img.shields.io/github/v/release/SECTL/SecScore?style=for-the-badge&label=正式版&color=success)](https://github.com/SECTL/SecScore/releases/latest)
-[![Beta](https://img.shields.io/github/v/release/SECTL/SecScore?include_prereleases&style=for-the-badge&label=测试版&color=orange)](https://github.com/SECTL/SecScore/releases/)
-[![Last Commit](https://img.shields.io/github/last-commit/SECTL/SecScore?style=for-the-badge&label=上次提交&color=informational)](https://github.com/SECTL/SecScore/commits/main)
-
-</div>
-
-<div align="center">
-
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-833875216-blue?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://qm.qq.com/q/iWcfaPHn7W)
-[![bilibili](https://img.shields.io/badge/B%E7%AB%99-%E9%BB%8E%E6%B3%BD%E6%87%BF-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/520571577)
-
-</div>
-
-#### 💡 **项目简介**
-SecScore 是一款面向教育场景的个人积分管理工具，帮助教师或学生记录、统计和分析课堂互动、作业完成情况以及行为表现等积分数据，让教学管理更高效、更有趣。
-  
-👨‍💻 **主要开发者**: [Fox-block-offcial](https://github.com/Fox-block-offcial)
+[仓库地址](https://github.com/SECTL/SecScore)
+[SecScore 文档](https://secscore.sectl.top)
 
 ---
 
-### 📚 项目文档
+### Kazuha - 为触摸屏优化的通用演示助手工具
 
-📦 [SecRandom 文档](https://github.com/SECTL/SecRandom-docs)
+[仓库地址](https://github.com/SECTL/Kazuha)
+[Kazuha 文档](https://kazuha.sectl.top)
+
+---
+
+### ShowWrite - 简洁优雅的视频展台工具
+
+[仓库地址](https://github.com/SECTL/ShowWrite)
+[ShowWrite 文档](https://showwrite.sectl.top)
+
+---
+
+### Homeworklsland - 简洁易用的作业板
+
+[仓库地址](https://github.com/SECTL/Homeworklsland)
+[Homeworklsland 文档](https://homeworklsland.sectl.top)
 
 ---
 
@@ -100,7 +70,7 @@ SecScore 是一款面向教育场景的个人积分管理工具，帮助教师�
 
 ## ⭐ 星标历史
 
-[![星标历史](https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore&type=date&legend=top-left)](https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&type=date&legend=top-left)
+[![星标历史](https://api.star-history.com/svg?repos=SECTL/SecRandom,SECTL/SecScore,SECTL/Kazuha,SECTL/ShowWrite,SECTL/Homeworklsland&type=date&legend=top-left)](https://www.star-history.com/#SECTL/SecRandom&SECTL/SecScore&SECTL/Kazuha&SECTL/ShowWrite&SECTL/Homeworklsland&type=date&legend=top-left)
 
 ---
 
